@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "IGARDS"
 title_separator          : "-"
-name                     : &name "Paul Anderson"
+name                     : &name "IGARDS"
 description              : &description "Institute of Graph Analytics and Research in Data Science"
 url                      : https://igards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : *name
   avatar           : "Paul-labs-logo.png"
-  bio              : "Associate Professor, Data Science Director."
+  bio              : "Institute for Graph Analytics and Research in Data Science"
   location         : "Charleston, SC"
   email            :
   uri              : 
