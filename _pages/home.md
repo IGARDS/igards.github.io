@@ -7,7 +7,7 @@ header:
   cta_label: 
   cta_url: 
   caption:
-excerpt: 'The Institute for Graphs Analytics and Research in Data Science (IGARDS) is an international institute of scholars with facilities housed in the beautiful Harbor Walk facilities of the College of Charleston. The institute has a three-part vision for the foundations of data science: a problem-driven focus, a strong interaction between theory and practice, and deliberate, balanced training of the data science team. The goals of the institute are: (1) to research advanced approaches for foundational data science problems, (2) to train faculty, sharing our vision for the conduct of foundational data science work, and (3) to develop resources for skill development for data scientists at each educational level (B.S., M.S., Ph.D.).'
+excerpt: 'The Institute for Graphs Analytics and Research in Data Science (IGARDS) is an international institute of scholars with facilities housed in the beautiful Harbor Walk facilities of the College of Charleston. The institute has a three-part vision for the foundations of data science: a problem-driven focus, a strong interaction between theory and practice, and deliberate, balanced training of the data science team.'
 feature_row:
   - image_path: mm-free-feature.png
     alt: "research"
