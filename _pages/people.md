@@ -50,7 +50,7 @@ Mathematics and Computer Science Department<br>
 Davidson College
 
 <div class="small">
-Chartier is an applied mathematician with a focus in computer science, and frequently works in data analytics with a specialty in sports analytics. He has worked with the NBA, ESPN's Sport Science, NASCAR teams, and fantasy sports sites. Chartier directs and works with a team of about two dozen student researchers to provide analytics to Davidson College sports teams.
+Chartier specializes in sports analytics.  He frequently works on data analytics projects with groups such as the NBA, NFL, ESPN's Sport Science program, NASCAR teams, and fantasy sports sites.   He also serves as Chief Academic Officer for the predictive software company Tresata. He, along with a team of over 60 student researchers, supply analytics to Davidson College sports teams.  Dr. Chartier is a recipient of a national teaching award from the Mathematical Association of America and his research was recognized with an Alfred P. Sloan Research Fellowship. He authored the book "When Life is Linear: From Computer Graphics to Bracketology” and "Math Bytes: Google Bombs, Chocolate-Covered Pi, and Other Cool Bits in Computing”.  He also taught a 24-lecture series entitled "Big Data: How Data Analytics Is Transforming the World for Teaching Company”. Dr. Chartier serves on the Editorial Board for Math Horizons. He was the first chair of the Advisory Council for the National Museum of Mathematics.  He has also worked with Google and Pixar on their K-12 educational initiatives.  Dr. Chartier has served as a resource for a variety of media inquiries, including appearances with Bloomberg TV, NPR, the CBS Evening News, USA Today, and The New York Times.
 </div>
 
 ## Yoichi Izunaga, Ph.D.
