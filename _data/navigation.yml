@@ -30,8 +30,8 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "About"
-    url: /about/
+  - title: "Industry"
+    url: /industry/
 
 # documentation links
 docs:
