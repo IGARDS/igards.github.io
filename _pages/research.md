@@ -6,6 +6,8 @@ excerpt: "IGARDS"
 
 {% include base_path %}
 
+The institute is interested in supporting research projects designed to further the foundations of data science. We also aim to build collaborative applied teams of data science researchers to infuse data science across disciplines. One of our ongoing research projects studies rankability, explainable ranking algorithms, and active learning to ranking algorithms. This is describe in more detail below.
+
 ## Foundations of Rankability
 Rankability refers to a dataset's ability to produce a meaningful ranking of its items. A ranking is a list of items from most to least important. Ranking is a fundamental and underappreciated data science task that permeates almost every aspect of translating computational and algorithmic results into a form that a human can use. Its applications are numerous and include web search, cybersecurity, machine learning, and statistical learning theory.
 
@@ -19,6 +21,3 @@ RankLib is a collection of rankability datasets, test suites, and related resour
 For more information see: <a href="https://www.github.com/IGARDS/ranklib">https://www.github.com/IGARDS/ranklib</a>.
 
 For documentation on how to contribute see: <a href="https://github.com/IGARDS/ranklib/wiki/Rankability-Library">https://github.com/IGARDS/ranklib/wiki/Rankability-Library</a>.
-
-## Applications of Rankability
-Coming soon... Catalog of rankability demonstrations

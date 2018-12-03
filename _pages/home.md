@@ -12,14 +12,14 @@ feature_row:
   - image_path: mm-free-feature.png
     alt: "research"
     title: "Research"
-    excerpt: "Our major research projects."
+    excerpt: "Research projects."
     url: "/research/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "teaching_mentoring"
     title: "Teaching & Mentoring"
     excerpt: "Teaching, mentoring, research experiences, and philosophy."
-    url: "/teaching_mentoring/"
+    url: "/education/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "people"
