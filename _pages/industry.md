@@ -24,10 +24,6 @@ provide one of a kind recruitment opportunities and talent development. For more
 * Priority access to students for full-time hiring opportunities
 * Invitations to members-only events to network with faculty, alums, and students
 
-## Recruitment Membership
-* Priority placement of a two-student team (possibly up to four students) for practicum, mentored by a faculty member
-* Priority access to students for full-time hiring opportunities
-
 ## Research Membership
 * Priority placement of a two-student team (possibly up to four students) for practicum, mentored by a <b>dedicated</b> faculty member
 * Priority access to students for full-time hiring opportunities
