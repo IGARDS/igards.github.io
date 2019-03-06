@@ -1,5 +1,5 @@
 ---
-permalink: /research/rankability/corrections
+permalink: /research/rankability/corrections/
 title: "Rankability Corrections"
 excerpt: "IGARDS"
 ---
