@@ -8,9 +8,9 @@ excerpt: "IGARDS."
 
 ## Paul Anderson, Ph.D.
 Associate Professor<br>
-Director, Data Science<br>
-Department of Computer Science<br>
-College of Charleston
+Co-Director, IGARDS<br>
+Department of Computer Science & Software Engineering<br>
+Cal Poly, San Luis Obispo
 
 <div class="small">
 Anderson is the director of the Data Science B.S. and M.S. Program. He is the leader of the Data Science Research Group, which specializes in developing novel algorithms in the fields of foundational data science, data mining, machine learning, and artificial intelligence. Anderson's expertise includes machine learning, large-scale distributed computing, evolutionary computation and optimization, and biomedical cyberinfrastructure. He has funded multidisciplinary projects in metabolomics, human cognition and fatigue, toxicology, marine biology, cancer informatics, and medical and marine genomics. To date, Anderson has mentored over 30 undergraduate researchers and 7 graduate students. He is the principal investigator for the Omics NSF Research Experience for Undergraduates: in this role, he oversees the overall team-driven research agenda that includes students from Mathematics, Statistics, Computer Science, Data Science, and Biology with PIs from multiple institutions (e.g., NOAA, NIST, and the Medical University of South Carolina). Besides these academic roles, Anderson has active industry partnerships with BoomTown ROI (deep learning and NLP), Ceterus (transfer learning), and Bosch.
@@ -18,6 +18,7 @@ Anderson is the director of the Data Science B.S. and M.S. Program. He is the le
 
 ## Amy Langville, Ph.D.
 Professor<br>
+Co-Director, IGARDS<br>
 Department of Mathematics<br>
 College of Charleston
 
@@ -51,12 +52,4 @@ Davidson College
 
 <div class="small">
 Chartier specializes in sports analytics.  He frequently works on data analytics projects with groups such as the NBA, NFL, ESPN's Sport Science program, NASCAR teams, and fantasy sports sites.   He also serves as Chief Academic Officer for the predictive software company Tresata. He, along with a team of over 60 student researchers, supply analytics to Davidson College sports teams.  Dr. Chartier is a recipient of a national teaching award from the Mathematical Association of America and his research was recognized with an Alfred P. Sloan Research Fellowship. He authored the book "When Life is Linear: From Computer Graphics to Bracketology” and "Math Bytes: Google Bombs, Chocolate-Covered Pi, and Other Cool Bits in Computing”.  He also taught a 24-lecture series entitled "Big Data: How Data Analytics Is Transforming the World for Teaching Company”. Dr. Chartier serves on the Editorial Board for Math Horizons. He was the first chair of the Advisory Council for the National Museum of Mathematics.  He has also worked with Google and Pixar on their K-12 educational initiatives.  Dr. Chartier has served as a resource for a variety of media inquiries, including appearances with Bloomberg TV, NPR, the CBS Evening News, USA Today, and The New York Times.
-</div>
-
-## Yoichi Izunaga, Ph.D.
-Assistant Professor<br>
-University of Tsukuba (Tokyo Campus)
-
-<div class="small">
-Izunaga is an expert in mathematical optimization and operations research.
 </div>
