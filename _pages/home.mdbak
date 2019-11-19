@@ -30,7 +30,7 @@ feature_row:
 github:
   - excerpt: 'www.github.com/igards'
 intro:
-  - excerpt: 'The initiative has three main components: research, teaching & mentoring, and most importantly, its members.'
+  - excerpt: 'The institute has three main components: research, teaching & mentoring, and most importantly, its members.'
 ---
 
 {% include feature_row id="intro" type="center" %}
