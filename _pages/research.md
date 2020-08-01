@@ -22,6 +22,8 @@ Paul Anderson, Timothy Chartier, and Amy Langville<br>
 SIAM Journal on Mathematics of Data Science 2019 1:1, 121-143<br>
 [Typos and Corrections](/research/rankability/corrections/)
 
+<a href="/research/IGARDS_Technical_Report_November_2019.pdf">IGARDS Technical Report 1</a>
+
 ## Software
 Python (and other language) implementation of rankability and related algorithms can be found at <a href="https://www.github.com/IGARDS/rankability_toolbox">https://www.github.com/IGARDS/rankability_toolbox</a>.
 
